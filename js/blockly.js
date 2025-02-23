@@ -1,6 +1,6 @@
 
   //工具箱设置
-
+const selectedValue = 'Python';
 var toolbox = {
   "kind": "categoryToolbox",
   "contents": [
